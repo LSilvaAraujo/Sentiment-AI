@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
     borderWidth: 2,
     borderRadius: 4,
     borderColor: '#17141E',
-    padding: 32,
+    padding: 32    
   },
   input: {
     width: '100%',
